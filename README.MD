@@ -20,3 +20,8 @@
 
 ... spread operator 
 .reduce 
+
+##### Challenge4_MultiplyValue 
+
+typeof 
+.repeat 
