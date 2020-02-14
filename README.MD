@@ -25,3 +25,11 @@
 
 typeof 
 .repeat 
+
+#### Challenge5_MaximumCocktails
+
+for in loop (for objects)
+.push
+Math.floor 
+Nath.min 
+... spread operator
