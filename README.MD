@@ -4,7 +4,7 @@
 
  #### Index 
 
- ##### Challenge1_CapitaliseTheFront 
+ ##### Challenge1_CapitaliseTheFront.
  .split
  .map 
  .charAt
@@ -14,4 +14,9 @@
  ##### Challenge2_AutomicBlonde. 
 
 .split 
+.reduce 
+
+##### Challenge3_Arguments. 
+
+... spread operator 
 .reduce 
