@@ -10,4 +10,8 @@
  .charAt
  .slice 
  .join 
- 
+
+ ##### Challenge2_AutomicBlonde. 
+
+.split 
+.reduce 
