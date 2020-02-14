@@ -2,7 +2,7 @@
 
  This Repository is Designed to Be a Reference to the Various JavaScript Challenges i Have Completed. The goal is that this will increase my understanding of programatic thinking and my knowledge of helper methods within JavaScript. 
 
- #### Index 
+ ### Index 
 
  ##### Challenge1_CapitaliseTheFront.
  .split
@@ -33,3 +33,6 @@ for in loop (for objects)
 Math.floor 
 Math.min 
 ... spread operator
+
+
+### Glossary 
