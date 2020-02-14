@@ -31,5 +31,5 @@ typeof
 for in loop (for objects)
 .push
 Math.floor 
-Nath.min 
+Math.min 
 ... spread operator
