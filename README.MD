@@ -34,5 +34,14 @@ Math.floor
 Math.min 
 ... spread operator
 
+#### Challenge6_Abbreviate a Two Word Name
+
+for of loop (for arrays)
+.toUpperCase
+.split
+.push
+.chatAt
+.join
+
 
 ### Glossary 
